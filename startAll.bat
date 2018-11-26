@@ -1,6 +1,6 @@
 @echo off
 
-set apk="D:\apks\test.apk"
+set apk="D:\apks\app-debug-androidTest.apk"
 
 ::cd "C:\Program Files (x86)\Android\android-sdk\build-tools\26.0.1\"
 
